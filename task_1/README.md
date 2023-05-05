@@ -1,1 +1,4 @@
-![alt text](https://github.com/mynameis-nikita/superset_dashboards/blob/main/task_1.jpg?raw=true)
+<p align="center">
+  <img src="https://github.com/mynameis-nikita/superset_dashboards/blob/main/task_1/Task_1.png" width="450" title="hover text">
+</p>
+
